@@ -1,18 +1,27 @@
 import React from 'react'
-import coverImage from "../../assets/cover/cover-image.jpg";
+import ContactForm from '../Contact'
+
 
 function About() {
 
   return (
-    <section className="my-5" >
+    <>
+    <section className="hero-banner" >
       <h1 id="about">Who am I?</h1>
-      <img src={coverImage} className="my-2" style={{ width: "100%" }} alt="cover" />
+      <img src="../image/hero.jpg" className="my-2" style={{width:"100vw",maxHeight:"60vh"}} alt="cover" />
+      </section>
+      <section>
       <div className="my-2">
-        <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec bibendum turpis sed ex condimentum molestie. Mauris condimentum lectus ut ornare dignissim. Mauris faucibus urna mi, ac feugiat metus aliquam maximus. Proin aliquam justo nec diam vulputate vestibulum. Aenean sollicitudin nulla at nisi ornare, nec suscipit massa eleifend. Morbi tristique justo vel turpis sollicitudin, et tristique velit convallis. In hac habitasse platea dictumst. Phasellus mattis nunc sed orci consequat laoreet. Praesent id nisl nibh. Curabitur imperdiet ultricies mollis. In hac habitasse platea dictumst.
-      </p>
+      <p>
+          I am very dedicated and hardworking who can do various tasks 
+          able to multi task with multiple projects.
+          I have a certificate for MIcrosoft Office Specialist
+           and Digital Literacy.
+          I am currently in school at UT Bootcamp for Computer Coding.
+          I have good work ethic, organizational skills as well as good people skills.        </p>
       </div>
     </section>
+    </>
   )
 }
 
