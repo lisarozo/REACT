@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,aACE,kBAA4B,CAC5B,qBAAsB,CACtB,uBAA2B,CAC3B,eAAgB,CAChB,WACF","file":"main.a2f12b49.chunk.css","sourcesContent":[".hero-banner {\r\n  background: rgb(68, 88, 120);\r\n  background-size: cover;\r\n  background-position: center;\r\n  max-height: 30vh;\r\n  width: 100vw;\r\n}\r\n"]}
