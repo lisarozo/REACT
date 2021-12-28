@@ -1,5 +1,7 @@
 # REACT
-This application is my portfolio with REACT:
+This application is my portfolio with REACT
+
+Here is a link to my github pages for REACT:
 https://github.com/lisarozo/REACT.git
 
 Here is a link to my website for REACT: 
